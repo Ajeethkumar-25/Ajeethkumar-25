@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=YOUR%20NAME&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=YOUR%20ROLE%20%7C%20YOUR%20ROLE%20%7C%20YOUR%20ROLE&descAlignY=58&descSize=18"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+amazing+projects;Learning+new+technologies;Exploring+Artificial+Intelligence;Turning+ideas+into+real+projects" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=AJEETHKUMAR%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20Generative%20AI&descAlignY=58&descSize=18"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Multi-Agent+Systems;Deploying+GenAI+%26+RAG+Pipelines;FastAPI+%2B+LangGraph+%2B+AWS+Bedrock;Production-Grade+AI+SaaS+Platforms" alt="Typing SVG" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/EDUCATION-Your%20Degree-6D28D9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FOCUS-Your%20Focus-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/BASED%20IN-Your%20Country-4C1D95?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EDUCATION-MCA%20(AI%20%26%20ML)-6D28D9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FOCUS-Agentic%20AI%20%26%20RAG-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BASED%20IN-Chennai,%20India-4C1D95?style=for-the-badge"/>
   <br/><br/>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://github.com/Ajeethkumar-25">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:ajkmr2525@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ajkmr2525@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/Ajeethkumar-25">
+    <img src="https://img.shields.io/badge/GitHub-Ajeethkumar--25-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
@@ -21,95 +21,110 @@
 
 ## 📌 About Me
 
+Senior AI Engineer with **5+ years of professional experience**, including 3+ years in Python software engineering and 2+ years designing and deploying production-grade Agentic AI and Generative AI solutions.
+
+Experienced in building multi-agent systems, RAG applications, intelligent document processing, and cloud-native AI platforms using Python, FastAPI, LangGraph, OpenClaw, AWS Bedrock, Redis, Kafka, PostgreSQL, and Docker.
+
 ```yaml
-name: YOUR NAME
-education: YOUR DEGREE
-role: YOUR ROLE
-focus: - YOUR SKILL - YOUR SKILL - YOUR SKILL
-currently_learning: - YOUR SKILL - YOUR SKILL - YOUR SKILL
+name: Ajeethkumar Muruganandham
+education: MCA (AI & ML) - Chandigarh University
+role: Senior AI Engineer @ Annular Technologies
+focus: Agentic AI, Multi-Agent Systems, RAG Pipelines, GenAI SaaS
+currently_learning: Advanced LLM Orchestration, Autonomous Agents & MCP
 mindset: Learn → Build → Share → Improve
 ```
-
-Write 2–4 lines about yourself here.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### AI, LLM & Orchestration
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css"/>
+  <img src="https://img.shields.io/badge/LangGraph-7C3AED?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-38BDF8?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG%20%26%20Vector%20DB-059669?style=for-the-badge"/>
 </p>
 
-### Frontend
+### Programming & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,js,bash,postgres,redis,mongodb,mysql"/>
 </p>
 
-### Backend & Database
+### Messaging & Event-Driven
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,nodejs,mysql,mongodb"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis%20Streams-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
-### Tools
+### Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,git,linux"/>
 </p>
 
 ---
 
-## 🚀 My Learning Journey
+## 🚀 My Professional Journey
 
 ```text
-YOUR CURRENT FIELD ↓ YOUR SKILL ↓ YOUR SKILL ↓ YOUR SKILL ↓ YOUR GOAL
+Computer Technology (B.Sc) → Backend & Python Eng (3+ yrs) → Agentic AI & GenAI Eng (2+ yrs) → Senior AI Engineer
 ```
 
 ### Currently Exploring
-- YOUR TOPIC - YOUR TOPIC - YOUR TOPIC - YOUR TOPIC
+- Advanced Multi-Agent Orchestration & Tool Calling Systems
+- Model Context Protocol (MCP) Integration
+- Scalable Autonomous AI Agents for Enterprise Automation
 
 ---
 
 ## 💻 Featured Projects
 
-### 🔹 Project 01 — YOUR PROJECT NAME
-Write a short description of your project here.
+### 🔹 GTMer – Enterprise AI Sales Development Platform
+A production-grade multi-tenant AI SaaS platform that automates B2B sales workflows through AI agents, AI email generation, AI voice calling, chatbot automation, lead enrichment, competitor intelligence, and CRM automation.
 
 **Tech Stack:**  
-`Python` `React` `Flask` `MySQL`
+`Python` `FastAPI` `LangGraph` `AWS Bedrock` `React` `PostgreSQL` `Redis` `Docker` `AWS`
 
 ---
 
-### 🔹 Project 02 — YOUR PROJECT NAME
-Write a short description of your project here.
+### 🔹 Enterprise Document Intelligence Platform
+Built an AI-powered document processing platform supporting OCR, document classification, intelligent data extraction, AI validation workflows, dynamic schema mapping, and enterprise document automation.
 
 **Tech Stack:**  
-`HTML` `CSS` `JavaScript`
+`Python` `OCR` `LLMs` `FastAPI` `PostgreSQL` `Redis`
 
 ---
 
-### 🔹 Project 03 — YOUR PROJECT NAME
-Write a short description of your project here.
+### 🔹 OpenClaw Enterprise AI Assistant
+Developed enterprise AI assistants using OpenClaw with multi-agent orchestration, WhatsApp integration, memory management, RAG, authentication, tool calling, and workflow automation.
 
 **Tech Stack:**  
-`Flutter` `Dart` `Firebase`
+`OpenClaw` `LangGraph` `Python` `FastAPI` `Redis` `Docker` `AWS`
 
 ---
 
 ## 📈 Current Focus
 
 ```yaml
-learning: - YOUR SKILL - YOUR SKILL - YOUR SKILL
-building: - YOUR PROJECT - YOUR PROJECT
-exploring: - YOUR TOPIC - YOUR TOPIC
-goal: - YOUR GOAL - YOUR GOAL
+learning:
+  - Agentic Systems
+  - Model Context Protocol (MCP)
+  - Autonomous Workflows
+building:
+  - Multi-Agent AI SaaS Platforms
+  - Enterprise RAG Pipelines
+goal:
+  - Architect scalable, enterprise-ready GenAI & Agentic AI solutions
 ```
 
 ---
 
-## 🐙 GitHub Statistics & Badges
+## 🐙 GitHub & Social Links
 
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Ajeethkumar-25">
     <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <br/><br/>
@@ -123,13 +138,13 @@ goal: - YOUR GOAL - YOUR GOAL
 ## 📬 Connect With Me
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://github.com/Ajeethkumar-25">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:ajkmr2525@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Ajeethkumar-25">
     <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
