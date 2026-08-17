@@ -1,15 +1,70 @@
-# Ajeethkumar Muruganandham
+<div align="center">
 
-**Senior AI Engineer | Autonomous Multi-Agent Systems | Agentic AI Architect**  
-📍 Chennai, India • ✉️ [ajkmr2525@gmail.com](mailto:ajkmr2525@gmail.com) • 🔗 [LinkedIn](https://linkedin.com/in/ajeethkumar-muruganandham) • 🐙 [GitHub](https://github.com/Ajeethkumar-25)
+  <!-- DYNAMIC ANIMATED HEADER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=AJEETHKUMAR%20MURUGANANDHAM&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20AI%20Engineer%20%E2%97%86%20Autonomous%20Multi-Agent%20Architect%20%E2%97%86%20Cognitive%20Systems&descAlignY=58&descSize=16"/>
+
+  <br/>
+
+  <!-- EMBEDDED PROFILE PICTURE (GLOWING BORDER EFFECT) -->
+  <table>
+    <tr>
+      <td align="center" style="border: none; background: transparent;">
+        <img src="https://raw.githubusercontent.com/Ajeethkumar-25/Ajeethkumar-25/main/profile.jpg" width="180" height="180" alt="Ajeethkumar Muruganandham - AI Engineer" style="border-radius: 50%; box-shadow: 0 0 40px rgba(124, 58, 237, 0.75);"/>
+      </td>
+    </tr>
+  </table>
+
+  <!-- TYPING SUBTITLE -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=740&lines=%E2%9A%A1+Creator+of+Carry+Agent+(Dual+KG+%2B+Vector+RAG);%F0%9F%A7%A0+Architect+of+GTMer+Enterprise+AI+Sales+SaaS;%F0%9F%9B%A0%EF%B8%8F+Self-Healing+Playwright+Engines+%2B+Tree-Sitter+AST;%F0%9F%9A%80+LangGraph+Multi-Agent+Swarms+%2B+AWS+Bedrock" alt="Typing SVG" />
+
+  <br/><br/>
+
+  <!-- STATUS & IDENTITY BADGES -->
+  <img src="https://img.shields.io/badge/ROLE-Senior%20AI%20Engineer-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EXPERIENCE-5%2B%20Years%20(3%2B%20Python%20%7C%202%2B%20GenAI)-6D28D9?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EDUCATION-MCA%20(AI%20%26%20ML)-4C1D95?style=for-the-badge&logo=academicons&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LOCATION-Chennai,%20India-06B6D4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+  <br/><br/>
+
+  <!-- QUICK CONNECT BUTTONS -->
+  <a href="https://linkedin.com/in/ajeethkumar-muruganandham">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:ajkmr2525@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Ajeethkumar-25">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+</div>
 
 ---
 
-## 📌 Executive Summary
-
-Senior AI Engineer specializing in **Autonomous Agentic Systems, Dual-Memory (Knowledge Graph + Vector RAG) Cognitive Agents**, and **Enterprise Multi-Tenant AI SaaS Platforms**.
-
-With **5+ years of software engineering experience** (3+ years Python backend, 2+ years production Agentic AI), I architect end-to-end autonomous systems: from **Carry Agent** (reasoning & self-correcting cognitive engine) and **GTMer** (multi-agent enterprise sales platform) to **AST-driven self-healing test automation** and **CRM intelligence suites**.
+<table width="100%">
+  <tr>
+    <td width="62%" valign="top">
+      <h2>📌 Executive Brief</h2>
+      <p>
+        Senior AI Engineer specializing in <b>Autonomous Multi-Agent Swarms, Dual-Memory (Knowledge Graph + Vector RAG) Cognitive Systems</b>, and <b>Enterprise Multi-Tenant AI SaaS Platforms</b>.
+      </p>
+      <p>
+        With <b>5+ years of software engineering experience</b>, I bridge research-grade AI with production scale: from reasoning cognitive agents that self-correct runtime failures to high-throughput asynchronous microservices handling millions of events on AWS.
+      </p>
+    </td>
+    <td width="38%" valign="top">
+      <h3>⚡ Core Philosophy</h3>
+      <pre><code>Reason  ➔ Plan
+   ↓        ↓
+  Act   ➔ Self-Correct
+   ↓
+ Scale to Production</code></pre>
+    </td>
+  </tr>
+</table>
 
 ```yaml
 identity:
@@ -21,91 +76,146 @@ identity:
     - Cognitive Memory: Dual Knowledge Graphs (Neo4j) + Hybrid Vector RAG (ChromaDB)
     - Self-Healing Code Synthesis & Tree-Sitter AST Static Analysis
     - Enterprise Multi-Tenant AI SaaS Platforms on AWS (Bedrock, ECS/EC2)
-  mindset: Reason → Plan → Act → Self-Correct → Scale
 ```
 
 ---
 
 ## 🛠️ Complete Technical Competencies
 
-| Domain Layer | Technologies & Production Frameworks |
-| :--- | :--- |
-| **🤖 Autonomous AI & Agents** | `Carry Agent` `LangGraph` `OpenClaw Swarms` `LangChain` `Agentic Workflows` `MCP (Model Context Protocol)` `Tool Calling & Function Calling` |
-| **🧠 Foundation Models & Cloud AI** | `AWS Bedrock` `OpenAI API` `Claude API (Anthropic)` `Gemini API` `Ollama (Local LLMs)` `TensorFlow` `PyTorch` |
-| **🕸️ Knowledge Graphs & Vector Memory** | `Knowledge Graphs (KG)` `Neo4j` `Dual KG + RAG Engine` `ChromaDB` `Pinecone` `FAISS` `Hybrid Search` |
-| **⚡ High-Performance Backend & APIs** | `Python 3.12` `FastAPI` `GraphQL` `RESTful APIs` `Microservices` `Async Processing` `Celery` `Background Workers` |
-| **💾 Storage & Event Streams** | `PostgreSQL` `Redis Streams` `Apache Kafka` `MongoDB` `SQLite (SQLAlchemy ORM)` `Event-Driven Architecture` |
-| **🔧 AST Code Analysis & Self-Healing** | `Tree-Sitter AST Parsers (Java/TS/Python)` `Playwright POM` `Self-Healing Locators` `Autonomous Test Fixers` |
-| **☁️ Cloud Infrastructure & DevOps** | `AWS (EC2, S3, Lambda, IAM, CloudFront)` `Docker` `Docker Compose` `Nginx` `CI/CD Pipelines` `Linux / Bash` |
-| **🎨 Frontend & Visualization** | `React` `TypeScript` `JavaScript` `Streamlit Dashboards` `Matplotlib Radar Profiling` `HTML5 / CSS3` |
+<table>
+  <thead>
+    <tr bgcolor="#160e33">
+      <th width="30%" align="left"><b>Domain Layer</b></th>
+      <th width="70%" align="left"><b>Technologies & Production Frameworks</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>🤖 Autonomous AI & Agents</b></td>
+      <td><code>Carry Agent</code> <code>LangGraph</code> <code>OpenClaw Swarms</code> <code>LangChain</code> <code>Agentic Workflows</code> <code>MCP (Model Context Protocol)</code> <code>Tool Calling & Function Calling</code></td>
+    </tr>
+    <tr>
+      <td><b>🧠 Foundation Models & Cloud AI</b></td>
+      <td><code>AWS Bedrock</code> <code>OpenAI API</code> <code>Claude API (Anthropic)</code> <code>Gemini API</code> <code>Ollama (Local LLMs)</code> <code>TensorFlow</code> <code>PyTorch</code></td>
+    </tr>
+    <tr>
+      <td><b>🕸️ Knowledge Graphs & Vector Memory</b></td>
+      <td><code>Knowledge Graphs (KG)</code> <code>Neo4j</code> <code>Dual KG + RAG Engine</code> <code>ChromaDB</code> <code>Pinecone</code> <code>FAISS</code> <code>Hybrid Search</code></td>
+    </tr>
+    <tr>
+      <td><b>⚡ High-Performance Backend & APIs</b></td>
+      <td><code>Python 3.12</code> <code>FastAPI</code> <code>GraphQL</code> <code>RESTful APIs</code> <code>Microservices</code> <code>Async Processing</code> <code>Celery</code> <code>Background Workers</code></td>
+    </tr>
+    <tr>
+      <td><b>💾 Storage & Event Streams</b></td>
+      <td><code>PostgreSQL</code> <code>Redis Streams</code> <code>Apache Kafka</code> <code>MongoDB</code> <code>SQLite (SQLAlchemy ORM)</code> <code>Event-Driven Architecture</code></td>
+    </tr>
+    <tr>
+      <td><b>🔧 AST Code Analysis & Self-Healing</b></td>
+      <td><code>Tree-Sitter AST Parsers (Java/TS/Python)</code> <code>Playwright POM</code> <code>Self-Healing Locators</code> <code>Autonomous Test Fixers</code></td>
+    </tr>
+    <tr>
+      <td><b>☁️ Cloud Infrastructure & DevOps</b></td>
+      <td><code>AWS (EC2, S3, Lambda, IAM, CloudFront)</code> <code>Docker</code> <code>Docker Compose</code> <code>Nginx</code> <code>CI/CD Pipelines</code> <code>Linux / Bash</code></td>
+    </tr>
+    <tr>
+      <td><b>🎨 Frontend & Visualization</b></td>
+      <td><code>React</code> <code>TypeScript</code> <code>JavaScript</code> <code>Streamlit Dashboards</code> <code>Matplotlib Radar Profiling</code> <code>HTML5 / CSS3</code></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ## 🚀 Flagship & Core AI Engineering Systems
 
-### 🤖 1. Carry Agent – Dual-Engine Cognitive Autonomous AI Agent (`carry`)
-> **Core Innovation:** An autonomous software engineer agent that reasons, plans, audits, and self-corrects before and during code execution.
+<details open>
+<summary><h3>🤖 1. Carry Agent – Dual-Engine Cognitive Autonomous AI Agent (<code>carry</code>)</h3></summary>
+<blockquote>
+<b>Core Innovation:</b> An autonomous software engineer agent that reasons, plans, audits, and self-corrects before and during code execution.
+</blockquote>
 
-- **Dual-Engine Memory Hierarchy:** Combines **Knowledge Graphs (Neo4j / Concept Dependency Mapping)** with dynamic **Vector RAG** to understand project context and hidden dependencies.
-- **Requirement Clarity & Risk Scoring:** Automatically calculates project readiness (0–100 scale), triggering smart clarification dialogues or scope renegotiation.
-- **Multi-Factor Audit Engine:** Audits execution plans against security policies, computational cost, skill alignment, and architectural constraints.
-- **Real-Time Self-Correction Loop:** Inspects execution failures and runtime stack traces, dynamically reformulating solution graphs without human intervention.
+- 🧠 **Dual-Engine Memory Hierarchy**: Integrates **Knowledge Graphs (Concept & Tool Dependency Mapping)** with dynamic **Vector RAG** for full contextual awareness and domain discovery.
+- 🎯 **Requirement Clarity & Risk Scoring**: Automatically calculates project clarity (0–100 score), triggering smart clarification dialogues or scope renegotiation.
+- 🛡️ **Multi-Factor Audit Engine**: Audits execution plans against security policies, computational cost, skill alignment, and architectural constraints.
+- 🔄 **Real-Time Self-Correction Loop**: Inspects execution failures and runtime stack traces, dynamically reformulating solution graphs without human intervention.
 
-```text
+```
 [Client Request] ➔ [Dual KG + RAG Retrieval] ➔ [Clarity & Risk Check] ➔ [Audited Plan] ➔ [Execution & Self-Correction] ➔ [Continuous Learning]
 ```
 **Tech Stack:** `Python 3.12` `LangGraph` `Knowledge Graphs` `ChromaDB` `FastAPI` `Ollama` `Docker`
+</details>
 
 ---
 
-### 💼 2. GTMer – Enterprise AI Sales Development SaaS Platform
-> **Core Innovation:** Production-grade multi-tenant B2B SDR automation powered by coordinated multi-agent swarms.
+<details open>
+<summary><h3>💼 2. GTMer – Enterprise AI Sales Development SaaS Platform</h3></summary>
+<blockquote>
+<b>Core Innovation:</b> Production-grade multi-tenant B2B SDR automation powered by coordinated multi-agent swarms.
+</blockquote>
 
-- **LangGraph + AWS Bedrock Multi-Agent Graphs:** Dynamic task routing, SDR persona modeling, and competitor intelligence agents.
-- **Autonomous Outbound Workflows:** Automated website analysis, lead qualification & enrichment, hyper-personalized email generation, and AI voice calling agents.
-- **Multi-Tenant SaaS Infrastructure:** Organization-level tenancy, fine-grained RBAC permissions, subscription billing, and token-level AI quota monitoring.
-- **Event-Driven Microservices:** Built on **FastAPI, PostgreSQL, Redis Streams, Kafka, Docker**, and deployed on AWS.
+- 🤖 **LangGraph + AWS Bedrock Multi-Agent Graphs**: Dynamic task routing, SDR persona modeling, and competitor intelligence agents.
+- ✉️ **Autonomous Outbound Workflows**: Automated website analysis, lead qualification & enrichment, hyper-personalized email generation, and AI voice calling agents.
+- 🏢 **Multi-Tenant SaaS Infrastructure**: Organization-level tenancy, fine-grained RBAC permissions, subscription billing, and token-level AI quota monitoring.
+- ⚡ **Event-Driven Microservices**: Built on **FastAPI, PostgreSQL, Redis Streams, Kafka, Docker**, and deployed on AWS.
 
 **Tech Stack:** `Python` `FastAPI` `LangGraph` `AWS Bedrock` `RAG` `Kafka` `Redis Streams` `PostgreSQL` `Docker` `AWS`
+</details>
 
 ---
 
-### 🧠 3. AI-Driven Autonomous Test Engineering & Self-Healing Engine (`AITesting_B`)
-> **Core Innovation:** Self-healing Playwright automation framework driven by Static AST Code Analysis.
+<details open>
+<summary><h3>🧠 3. AI-Driven Autonomous Test Engineering & Self-Healing Engine (<code>AITesting_B</code>)</h3></summary>
+<blockquote>
+<b>Core Innovation:</b> Self-healing Playwright automation framework driven by Static AST Code Analysis.
+</blockquote>
 
-- **Tree-Sitter AST Parsing:** Deeply inspects frontend repositories (Java, TypeScript, React JSX) to automatically discover routes, DOM components, and resilient locators.
-- **Autonomous Healing Agents:** `ai_orchestrator_service`, `ai_coverage_agent`, and `ai_fix_service` detect test breakages, perform live dry-run validations, and patch broken selectors on-the-fly.
+- 🌲 **Tree-Sitter AST Parsing**: Deeply inspects frontend repositories (Java, TypeScript, React JSX) to automatically discover routes, DOM components, and resilient locators.
+- 🩺 **Autonomous Healing Agents**: `ai_orchestrator_service`, `ai_coverage_agent`, and `ai_fix_service` detect test breakages, perform live dry-run validations, and patch broken selectors on-the-fly.
 
 **Tech Stack:** `Python` `FastAPI` `Tree-Sitter AST` `Playwright POM` `OpenAI / Claude API` `PostgreSQL`
+</details>
 
 ---
 
-### 🌐 4. OpenClaw Multi-Agent Automation & Messaging Gateways
+<details>
+<summary><h3>🌐 4. OpenClaw Multi-Agent Automation & Messaging Gateways</h3></summary>
+
 - Enterprise multi-agent engine deployed on OpenClaw supporting custom tool approvals (`exec-approvals`), automated task queues, and persistent agent state.
 - Integrated **Telegram & WhatsApp agent gateways** for conversational enterprise automation.
 
 **Tech Stack:** `OpenClaw` `LangGraph` `Python` `Telegram Bot API` `WhatsApp Integration` `Redis` `Docker`
+</details>
 
 ---
 
-### 📊 5. AI CRM Intelligence Platform & Streamlit Analytics (`crm`)
+<details>
+<summary><h3>📊 5. AI CRM Intelligence Platform & Streamlit Analytics (<code>crm</code>)</h3></summary>
+
 - AI-assisted lead scoring, customer interaction analytics, automated pipeline forecasting, and real-time **Streamlit AI dashboards**.
 
 **Tech Stack:** `Python` `Streamlit` `FastAPI` `Docker` `PostgreSQL` `Machine Learning`
+</details>
 
 ---
 
-### 🥗 6. Paushtik Aahaar Custom GPT & Agentic RAG Service (`paustika Aahaar`)
+<details>
+<summary><h3>🥗 6. Paushtik Aahaar Custom GPT & Agentic RAG Service (<code>paustika Aahaar</code>)</h3></summary>
+
 - Domain-specific AI backend with **ChromaDB vector embeddings**, dynamic schema mapping, and automated Custom GPT endpoint synchronization.
 
 **Tech Stack:** `Python` `FastAPI` `ChromaDB` `LangChain` `Docker` `PostgreSQL`
+</details>
 
 ---
 
-### 📈 7. Enterprise LLM Benchmarking & Evaluation Suite (`benchmarking`)
+<details>
+<summary><h3>📈 7. Enterprise LLM Benchmarking & Evaluation Suite (<code>benchmarking</code>)</h3></summary>
+
 - Automated LLM evaluator measuring latency, token usage, Exact Match, Word F1, and sandboxed code execution with an interactive **Telegram Bot** and **Matplotlib radar profiling charts**.
 
 **Tech Stack:** `Python 3.12` `OpenClaw Proxy` `Telegram Bot API` `SQLite` `Matplotlib` `httpx`
+</details>
 
 ---
 
@@ -127,12 +237,25 @@ vision:
 
 ## 📬 Connect & Collaborate
 
-- **LinkedIn:** [linkedin.com/in/ajeethkumar-muruganandham](https://linkedin.com/in/ajeethkumar-muruganandham)
-- **Email:** [ajkmr2525@gmail.com](mailto:ajkmr2525@gmail.com)
-- **GitHub:** [github.com/Ajeethkumar-25](https://github.com/Ajeethkumar-25)
+<div align="center">
+  <a href="https://linkedin.com/in/ajeethkumar-muruganandham">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ajkmr2525@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Send%20Direct%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Ajeethkumar-25">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
-<p align="center">
-  <b>Keep Building • Keep Learning • Keep Growing</b>
-</p>
+<div align="center">
+  <h3>✨ Keep Building. Keep Learning. Keep Growing. ✨</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Code+%7C+Learn+%7C+Build+%7C+Grow;One+Project+At+A+Time+%F0%9F%9A%80;Keep+Learning+%E2%9C%A8" alt="Footer Animation"/>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+</div>
