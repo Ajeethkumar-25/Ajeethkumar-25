@@ -15,7 +15,7 @@
   </table>
 
   <!-- TYPING SUBTITLE -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=740&lines=%E2%9A%A1+Creator+of+Carry+Agent+(Dual+KG+%2B+Vector+RAG);%F0%9F%A7%A0+Architect+of+GTMer+Enterprise+AI+Sales+SaaS;%F0%9F%9B%A0%EF%B8%8F+Self-Healing+Playwright+Engines+%2B+Tree-Sitter+AST;%F0%9F%9A%80+LangGraph+Multi-Agent+Swarms+%2B+AWS+Bedrock" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=%F0%9F%A7%A0+Architect+of+GTMer+Enterprise+AI+Sales+SaaS;%E2%9A%A1+Creator+of+Carry+Agent+(Dual+KG+%2B+Vector+RAG);%F0%9F%9B%A0%EF%B8%8F+Self-Healing+Playwright+Engines+%2B+Tree-Sitter+AST;%F0%9F%9A%80+LangGraph+Multi-Agent+Swarms+%2B+AWS+Bedrock" alt="Typing SVG" />
 
   <br/><br/>
 
@@ -52,7 +52,7 @@
         Senior AI Engineer specializing in <b>Autonomous Multi-Agent Swarms, Dual-Memory (Knowledge Graph + Vector RAG) Cognitive Systems</b>, and <b>Enterprise Multi-Tenant AI SaaS Platforms</b>.
       </p>
       <p>
-        With <b>5+ years of software engineering experience</b>, I bridge research-grade AI with production scale: from reasoning cognitive agents that self-correct runtime failures to high-throughput asynchronous microservices handling millions of events on AWS.
+        Lead architect of <b>GTMer</b> (Enterprise AI Sales Development Platform with 31+ feature modules, 6+ microservices, and multi-agent SDR automation) alongside independent innovations like <b>Carry Agent</b> (cognitive self-correcting agent) and AST-driven self-healing test automation engines.
       </p>
     </td>
     <td width="38%" valign="top">
@@ -71,11 +71,13 @@ identity:
   name: Ajeethkumar Muruganandham
   role: Senior AI Engineer & Agentic Systems Architect
   education: Master of Computer Applications (AI & ML) - Chandigarh University | B.Sc Computer Technology
+  flagship_enterprise_platform: GTMer (Multi-Tenant AI Sales Development Platform)
+  independent_innovation: Carry Agent (Dual Knowledge Graph + Vector RAG Cognitive Agent)
   core_specializations:
-    - Autonomous Multi-Agent Swarms & Task Handoffs (LangGraph, OpenClaw)
-    - Cognitive Memory: Dual Knowledge Graphs (Neo4j) + Hybrid Vector RAG (ChromaDB)
+    - Multi-Agent Orchestration & SDR Automation (LangGraph, AWS Bedrock, OpenClaw)
+    - Full-Suite Multi-Tenant SaaS Architecture (FastAPI Microservices, Docker, Redis Streams, Kafka, AWS)
+    - Cognitive Dual-Engine Memory: Knowledge Graphs (Neo4j, D3) + Vector RAG (ChromaDB, FAISS)
     - Self-Healing Code Synthesis & Tree-Sitter AST Static Analysis
-    - Enterprise Multi-Tenant AI SaaS Platforms on AWS (Bedrock, ECS/EC2)
 ```
 
 ---
@@ -92,7 +94,7 @@ identity:
   <tbody>
     <tr>
       <td><b>🤖 Autonomous AI & Agents</b></td>
-      <td><code>Carry Agent</code> <code>LangGraph</code> <code>OpenClaw Swarms</code> <code>LangChain</code> <code>Agentic Workflows</code> <code>MCP (Model Context Protocol)</code> <code>Tool Calling & Function Calling</code></td>
+      <td><code>LangGraph</code> <code>AWS Bedrock</code> <code>Carry Agent</code> <code>OpenClaw Swarms</code> <code>LangChain</code> <code>Agentic Workflows</code> <code>MCP (Model Context Protocol)</code> <code>Tool & Function Calling</code></td>
     </tr>
     <tr>
       <td><b>🧠 Foundation Models & Cloud AI</b></td>
@@ -100,122 +102,137 @@ identity:
     </tr>
     <tr>
       <td><b>🕸️ Knowledge Graphs & Vector Memory</b></td>
-      <td><code>Knowledge Graphs (KG)</code> <code>Neo4j</code> <code>Dual KG + RAG Engine</code> <code>ChromaDB</code> <code>Pinecone</code> <code>FAISS</code> <code>Hybrid Search</code></td>
+      <td><code>Knowledge Graphs (KG)</code> <code>Neo4j</code> <code>D3 Force Graph</code> <code>Dual KG + RAG Engine</code> <code>ChromaDB</code> <code>Pinecone</code> <code>FAISS</code> <code>Hybrid Search</code></td>
     </tr>
     <tr>
-      <td><b>⚡ High-Performance Backend & APIs</b></td>
-      <td><code>Python 3.12</code> <code>FastAPI</code> <code>GraphQL</code> <code>RESTful APIs</code> <code>Microservices</code> <code>Async Processing</code> <code>Celery</code> <code>Background Workers</code></td>
+      <td><b>⚡ High-Performance Backend & Microservices</b></td>
+      <td><code>FastAPI (Python 3.12)</code> <code>Core API Microservices</code> <code>GraphQL</code> <code>REST APIs</code> <code>Async Processing</code> <code>Celery</code> <code>Background Workers</code></td>
     </tr>
     <tr>
-      <td><b>💾 Storage & Event Streams</b></td>
+      <td><b>💾 Databases & Event Streaming</b></td>
       <td><code>PostgreSQL</code> <code>Redis Streams</code> <code>Apache Kafka</code> <code>MongoDB</code> <code>SQLite (SQLAlchemy ORM)</code> <code>Event-Driven Architecture</code></td>
     </tr>
     <tr>
-      <td><b>🔧 AST Code Analysis & Self-Healing</b></td>
+      <td><b>🔧 AST Analysis & Self-Healing Testing</b></td>
       <td><code>Tree-Sitter AST Parsers (Java/TS/Python)</code> <code>Playwright POM</code> <code>Self-Healing Locators</code> <code>Autonomous Test Fixers</code></td>
     </tr>
     <tr>
-      <td><b>☁️ Cloud Infrastructure & DevOps</b></td>
-      <td><code>AWS (EC2, S3, Lambda, IAM, CloudFront)</code> <code>Docker</code> <code>Docker Compose</code> <code>Nginx</code> <code>CI/CD Pipelines</code> <code>Linux / Bash</code></td>
+      <td><b>☁️ Cloud Infrastructure & Production DevOps</b></td>
+      <td><code>AWS (EC2, S3, CloudFront, Lambda, IAM, ALB)</code> <code>Docker Compose (Multi-Stage)</code> <code>Nginx Reverse Proxy</code> <code>GitHub Actions CI/CD</code> <code>Razorpay Gateway</code></td>
     </tr>
     <tr>
-      <td><b>🎨 Frontend & Visualization</b></td>
-      <td><code>React</code> <code>TypeScript</code> <code>JavaScript</code> <code>Streamlit Dashboards</code> <code>Matplotlib Radar Profiling</code> <code>HTML5 / CSS3</code></td>
+      <td><b>🎨 Frontend & UI Visualization</b></td>
+      <td><code>React 19</code> <code>Vite</code> <code>FullCalendar v6</code> <code>Recharts</code> <code>Streamlit AI Dashboards</code> <code>React Context State</code> <code>DOMPurify</code></td>
     </tr>
   </tbody>
 </table>
 
 ---
 
-## 🚀 Flagship & Core AI Engineering Systems
+# 🌟 FLAGSHIP PROFESSIONAL WORK: GTMer — Enterprise AI Sales Development SaaS Platform
 
-<details open>
-<summary><h3>🤖 1. Carry Agent – Dual-Engine Cognitive Autonomous AI Agent (<code>carry</code>)</h3></summary>
-<blockquote>
-<b>Core Innovation:</b> An autonomous software engineer agent that reasons, plans, audits, and self-corrects before and during code execution.
-</blockquote>
+<div align="center">
+  <img src="https://img.shields.io/badge/Enterprise%20Production%20Grade-Multi--Tenant%20AI%20SDR%20SaaS-7C3AED?style=for-the-badge&logo=rocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scale-31%2B%20Modules%20%7C%206%2B%20Microservices-06B6D4?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deployment-AWS%20(CloudFront%20%2B%20S3%20%2B%20EC2%20Docker)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</div>
 
-- 🧠 **Dual-Engine Memory Hierarchy**: Integrates **Knowledge Graphs (Concept & Tool Dependency Mapping)** with dynamic **Vector RAG** for full contextual awareness and domain discovery.
-- 🎯 **Requirement Clarity & Risk Scoring**: Automatically calculates project clarity (0–100 score), triggering smart clarification dialogues or scope renegotiation.
+### 🎯 Product Vision
+> **Tagline:** *"AI SDRs that work in your sleep."*  
+**GTMer** (Go-To-Market-er) is a full-suite, multi-tenant B2B AI Sales Development Platform that automates the entire go-to-market lifecycle — replacing fragmented point tools with a unified intelligent SDR ecosystem.
+
+```
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                        GTMER PLATFORM ARCHITECTURE                                                   ║
+╠══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                                      ║
+║  ┌──────────────────────────────────────────────┐          ┌──────────────────────────────────────────────────────┐  ║
+║  │         REACT 19 SPA FRONTEND                │          │            FASTAPI MICROSERVICES LAYER               │  ║
+║  │  • 31 Feature Modules & 45+ Routes           │          │  • gtmr-core-api :8000 (Auth, Records, AI Soul)      │  ║
+║  │  • Outreach Center (8 Tabs, Rich Editor)     │  HTTPS   │  • email-v2 (Queue, Warm-up, Senders, Inbound)      │  ║
+║  │  • FullCalendar v6 + D3 Force Knowledge Graph│ ───────► │  • analytics-service :8003 (Pixel, Activity Tracking)│  ║
+║  │  • FeatureGate Permissions & Quota Metering  │          │  • competitor-analysis :8010 (Automated Research)    │  ║
+║  │  • AWS CloudFront CDN + S3 Deployment        │          │  • booking-service :8002 & AI Chatbot Platform       │  ║
+║  └──────────────────────────────────────────────┘          └──────────────────────────┬───────────────────────────┘  ║
+║                                                                                       │                              ║
+║                                                                                       ▼                              ║
+║                                                    ┌──────────────────────────────────────────────────────────────┐  ║
+║                                                    │           MULTI-AGENT AI & DISTRIBUTED DATA CORE             │  ║
+║                                                    │  • LangGraph + AWS Bedrock Multi-Agent SDR Swarms            │  ║
+║                                                    │  • Soul AI Auto-Crawler & ICP Persona Generation             │  ║
+║                                                    │  • PostgreSQL • Redis Streams • Apache Kafka • Docker EC2    │  ║
+║                                                    │  • Razorpay Subscription & Credit Metering Gateway           │  ║
+║                                                    └──────────────────────────────────────────────────────────────┘  ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+### ⚡ Deep-Dive Engineering & Architectural Highlights:
+
+- 🤖 **LangGraph & AWS Bedrock Multi-Agent Workflows**: Architected production-grade autonomous agent graphs that automate lead discovery, company intelligence extraction, intent analysis, and personalized outreach sequence synthesis.
+- 🧠 **Soul AI Crawler & Knowledge Persona Engine (`/soul`)**: Engineered an automated system that crawls client company websites, builds dynamic AI company personas and ICP profiles, and maps relationship knowledge using **D3 force-directed knowledge graph visualizations**.
+- ✉️ **Outreach Center with Advanced Email Engine (`/outreach`)**: Built an 8-tab email control center featuring a **119KB rich template editor**, HTML sanitization with DOMPurify, multi-sender SMTP routing, automated inbox reply classification (NDR detection), and send queue management.
+- 📞 **AI Voice Calling & Multichannel Communication (`/ai-calling`)**: Deployed AI voice calling with SIP trunk routing, real-time call health monitoring, call recording logs, and automated follow-up triggers.
+- 🏢 **Scalable Multi-Tenant Architecture**: Robust client & project data isolation (`Client ➔ Projects ➔ Records/Views/Emails`), role-based access control (RBAC), and dynamic permission gating (`/me/permissions`).
+- 💳 **Credit-Based Metering & Razorpay Billing (`/billing`)**: Integrated Razorpay payment workflows supporting subscription tiers, pre-paid wallet deposits, per-service usage logs, and real-time AI credit quota enforcement.
+- ☁️ **Cloud Infrastructure & CI/CD Pipeline**: Deployed on **AWS (Mumbai ap-south-1)** using multi-stage Docker builds (`node:22-alpine` ➔ `nginx:alpine`), automated GitHub Actions pipelines syncing to **Amazon S3**, invalidating **CloudFront CDN**, and routing via Nginx reverse proxy to FastAPI microservices.
+
+**Tech Stack:** `Python` `FastAPI` `LangGraph` `AWS Bedrock` `React 19` `Vite` `PostgreSQL` `Redis Streams` `Kafka` `Docker` `AWS (S3/CloudFront/EC2)` `Razorpay` `D3.js`
+
+---
+
+# 🔬 INNOVATIVE INDEPENDENT AI PROJECTS & SYSTEMS
+
+### 🤖 1. Carry Agent – Cognitive Dual-Engine Autonomous AI Agent (`carry`)
+> **Personal Innovation:** An autonomous software engineer agent that reasons, plans, audits, and self-corrects before and during code execution.
+
+- 🧠 **Dual-Engine Memory Hierarchy**: Combines **Knowledge Graphs (Concept & Tool Dependency Mapping)** with dynamic **Vector RAG** to understand project context and hidden dependencies.
+- 🎯 **Requirement Clarity & Risk Scoring**: Automatically calculates project readiness (0–100 scale), triggering smart clarification dialogues or scope renegotiation.
 - 🛡️ **Multi-Factor Audit Engine**: Audits execution plans against security policies, computational cost, skill alignment, and architectural constraints.
 - 🔄 **Real-Time Self-Correction Loop**: Inspects execution failures and runtime stack traces, dynamically reformulating solution graphs without human intervention.
 
-```
+```text
 [Client Request] ➔ [Dual KG + RAG Retrieval] ➔ [Clarity & Risk Check] ➔ [Audited Plan] ➔ [Execution & Self-Correction] ➔ [Continuous Learning]
 ```
-**Tech Stack:** `Python 3.12` `LangGraph` `Knowledge Graphs` `ChromaDB` `FastAPI` `Ollama` `Docker`
-</details>
+**Tech Stack:** `Python 3.12` `LangGraph` `Knowledge Graphs (Neo4j)` `ChromaDB` `FastAPI` `Ollama` `Docker`
 
 ---
 
-<details open>
-<summary><h3>💼 2. GTMer – Enterprise AI Sales Development SaaS Platform</h3></summary>
-<blockquote>
-<b>Core Innovation:</b> Production-grade multi-tenant B2B SDR automation powered by coordinated multi-agent swarms.
-</blockquote>
-
-- 🤖 **LangGraph + AWS Bedrock Multi-Agent Graphs**: Dynamic task routing, SDR persona modeling, and competitor intelligence agents.
-- ✉️ **Autonomous Outbound Workflows**: Automated website analysis, lead qualification & enrichment, hyper-personalized email generation, and AI voice calling agents.
-- 🏢 **Multi-Tenant SaaS Infrastructure**: Organization-level tenancy, fine-grained RBAC permissions, subscription billing, and token-level AI quota monitoring.
-- ⚡ **Event-Driven Microservices**: Built on **FastAPI, PostgreSQL, Redis Streams, Kafka, Docker**, and deployed on AWS.
-
-**Tech Stack:** `Python` `FastAPI` `LangGraph` `AWS Bedrock` `RAG` `Kafka` `Redis Streams` `PostgreSQL` `Docker` `AWS`
-</details>
-
----
-
-<details open>
-<summary><h3>🧠 3. AI-Driven Autonomous Test Engineering & Self-Healing Engine (<code>AITesting_B</code>)</h3></summary>
-<blockquote>
-<b>Core Innovation:</b> Self-healing Playwright automation framework driven by Static AST Code Analysis.
-</blockquote>
+### 🧠 2. AI-Driven Autonomous Test Engineering & Self-Healing Engine (`AITesting_B`)
+> **Core Innovation:** Self-healing Playwright automation framework driven by Static AST Code Analysis.
 
 - 🌲 **Tree-Sitter AST Parsing**: Deeply inspects frontend repositories (Java, TypeScript, React JSX) to automatically discover routes, DOM components, and resilient locators.
 - 🩺 **Autonomous Healing Agents**: `ai_orchestrator_service`, `ai_coverage_agent`, and `ai_fix_service` detect test breakages, perform live dry-run validations, and patch broken selectors on-the-fly.
 
 **Tech Stack:** `Python` `FastAPI` `Tree-Sitter AST` `Playwright POM` `OpenAI / Claude API` `PostgreSQL`
-</details>
 
 ---
 
-<details>
-<summary><h3>🌐 4. OpenClaw Multi-Agent Automation & Messaging Gateways</h3></summary>
-
+### 🌐 3. OpenClaw Multi-Agent Automation & Messaging Gateways
 - Enterprise multi-agent engine deployed on OpenClaw supporting custom tool approvals (`exec-approvals`), automated task queues, and persistent agent state.
 - Integrated **Telegram & WhatsApp agent gateways** for conversational enterprise automation.
 
 **Tech Stack:** `OpenClaw` `LangGraph` `Python` `Telegram Bot API` `WhatsApp Integration` `Redis` `Docker`
-</details>
 
 ---
 
-<details>
-<summary><h3>📊 5. AI CRM Intelligence Platform & Streamlit Analytics (<code>crm</code>)</h3></summary>
-
+### 📊 4. AI CRM Intelligence Platform & Streamlit Analytics (`crm`)
 - AI-assisted lead scoring, customer interaction analytics, automated pipeline forecasting, and real-time **Streamlit AI dashboards**.
 
 **Tech Stack:** `Python` `Streamlit` `FastAPI` `Docker` `PostgreSQL` `Machine Learning`
-</details>
 
 ---
 
-<details>
-<summary><h3>🥗 6. Paushtik Aahaar Custom GPT & Agentic RAG Service (<code>paustika Aahaar</code>)</h3></summary>
-
+### 🥗 5. Paushtik Aahaar Custom GPT & Agentic RAG Service (`paustika Aahaar`)
 - Domain-specific AI backend with **ChromaDB vector embeddings**, dynamic schema mapping, and automated Custom GPT endpoint synchronization.
 
 **Tech Stack:** `Python` `FastAPI` `ChromaDB` `LangChain` `Docker` `PostgreSQL`
-</details>
 
 ---
 
-<details>
-<summary><h3>📈 7. Enterprise LLM Benchmarking & Evaluation Suite (<code>benchmarking</code>)</h3></summary>
-
+### 📈 6. Enterprise LLM Benchmarking & Evaluation Suite (`benchmarking`)
 - Automated LLM evaluator measuring latency, token usage, Exact Match, Word F1, and sandboxed code execution with an interactive **Telegram Bot** and **Matplotlib radar profiling charts**.
 
 **Tech Stack:** `Python 3.12` `OpenClaw Proxy` `Telegram Bot API` `SQLite` `Matplotlib` `httpx`
-</details>
 
 ---
 
