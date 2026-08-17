@@ -222,10 +222,18 @@ identity:
 
 ---
 
-### 🥗 5. Paushtik Aahaar Custom GPT & Agentic RAG Service (`paustika Aahaar`)
-- Domain-specific AI backend with **ChromaDB vector embeddings**, dynamic schema mapping, and automated Custom GPT endpoint synchronization.
+### 🥗 5. Paushtik Aahaar Enterprise AI Chatbot & Agentic RAG Platform (`paustika Aahaar`)
+> **Current Active AI Chatbot:** Production-grade conversational AI assistant designed for a healthy meal subscription platform with strict domain containment, deterministic responses, and zero-hallucination database integration.
 
-**Tech Stack:** `Python` `FastAPI` `ChromaDB` `LangChain` `Docker` `PostgreSQL`
+- 🤖 **LangGraph State-Machine Orchestration**: Implements a structured conversation workflow (`Safety Guard Node ➔ Intent Classifier ➔ Router ➔ Tool Execution ➔ Synthesis Node`) with seamless support for OpenAI and Gemini model backends.
+- 🛡️ **Zero-Hallucination & Domain Restriction Guardrails**: 
+  - **Pre-LLM Safety Node**: Intercepts off-topic queries (politics, coding, sports) before LLM invocation to prevent jailbreaks and conserve API tokens.
+  - **Deterministic DB Tool Binding**: Binds LangChain tools directly to read-only PostgreSQL views (`vw_categories`, `vw_meals`) hosted on the enterprise Java backend, ensuring strict factual accuracy on meal availability, nutrition, and pricing without guessing.
+- 📚 **ChromaDB Hybrid Vector RAG**: Stores unstructured meal plans, dietary guidelines, and customization policies for real-time semantic retrieval.
+- 💾 **Dual-Storage Session Architecture**: Asynchronous **MongoDB** store for persistent conversation sessions & LLM-generated summaries, coupled with **PostgreSQL** for transactional catalog querying.
+- 🐳 **Decoupled Containerized Architecture**: Fully Dockerized stack comprising a **React + Nginx** frontend, **FastAPI** AI microservice with JWT authentication, and isolated database containers.
+
+**Tech Stack:** `Python` `FastAPI` `LangGraph` `LangChain` `ChromaDB` `OpenAI / Gemini API` `PostgreSQL (SQLAlchemy)` `MongoDB` `React` `Docker Compose` `Nginx`
 
 ---
 
