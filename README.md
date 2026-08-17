@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=AJEETHKUMAR%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20Multi-Agent%20Systems&descAlignY=58&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=AJEETHKUMAR%20MURUGANANDHAM&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20Multi-Agent%20Systems&descAlignY=58&descSize=18"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Creator+of+GTMer+Enterprise+AI+Sales+Platform;Multi-Agent+Orchestration+with+LangGraph;Autonomous+SDR+Workflows+%2B+AWS+Bedrock;FastAPI+%2B+RAG+%2B+Kafka+%2B+Redis+%2B+Docker" alt="Typing SVG" />
   <br/><br/>
   <img src="https://img.shields.io/badge/EDUCATION-MCA%20(AI%20%26%20ML)-6D28D9?style=for-the-badge"/>
@@ -18,6 +18,23 @@
 </div>
 
 ---
+
+# 🛠️ My Tech Stack
+
+| **Category** | **Technologies & Frameworks** |
+| :--- | :--- |
+| **Core Languages** | `Python` `JavaScript` `TypeScript` |
+| **AI Frameworks** | `LangGraph` `LangChain` `OpenClaw` `TensorFlow` `PyTorch` `Keras` |
+| **AI Agents & Tools** | `Agentic AI` `Generative AI` `Multi-Agent Systems` `MCP` `RAG` `Vector Search` `OpenAI API` `Claude API` `Gemini API` `AWS Bedrock` |
+| **Backend & APIs** | `FastAPI` `GraphQL` `REST APIs` `Microservices` `Async Processing` |
+| **Database & Knowledge Graphs** | `PostgreSQL` `Neo4j` `Knowledge Graphs` `MongoDB` `SQLite` `Pinecone` `FAISS` `ChromaDB` `Redis` |
+| **Cloud & DevOps** | `AWS (EC2, S3, Lambda, IAM, CloudFront)` `Docker` `Nginx` `CI/CD` `Git` `Linux` |
+| **Frontend** | `React` `HTML` `CSS` |
+| **Testing & Automation** | `Playwright` `Tree-Sitter AST` `Autonomous Testing Engines` `Self-Healing Tests` |
+| **Messaging & Streaming** | `Kafka` `Redis Streams` `Event-Driven Architecture` |
+| **Big Data** | `Hadoop` `Spark` |
+
+
 
 ## 📌 About Me
 
