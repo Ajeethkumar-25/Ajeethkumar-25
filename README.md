@@ -4,7 +4,7 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/EDUCATION-MCA%20(AI%20%26%20ML)-6D28D9?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FOCUS-Agentic%20AI%20%26%20RAG-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LOCATION-Chennai,%20India-4C1D95?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BASED%20IN-Chennai,%20India-4C1D95?style=for-the-badge"/>
   <br/><br/>
   <a href="https://github.com/Ajeethkumar-25">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -19,129 +19,135 @@
 
 ---
 
-## 📌 About Me & My Work
+## 📌 About Me
 
-I am a **Senior AI Engineer** with **5+ years of professional experience**, specializing in building enterprise-grade **Agentic AI**, **Generative AI**, and scalable cloud-native architectures.
+Senior AI Engineer with **5+ years of professional experience**, including 3+ years in Python software engineering and 2+ years designing and deploying production-grade Agentic AI and Generative AI solutions.
 
-### 💡 What I Do Best:
-- **🤖 Multi-Agent Systems & AI Workflows:** Architecting complex multi-agent graphs using **LangGraph**, **OpenClaw**, and **AWS Bedrock** for automated decision-making and business workflows.
-- **🔍 Advanced RAG & Vector Search:** Building high-precision Enterprise Retrieval-Augmented Generation (RAG) pipelines leveraging embeddings, hybrid vector search (Pinecone, FAISS, PgVector), and knowledge retrieval systems.
-- **📄 Intelligent Document Processing (IDP):** Designing OCR + LLM document extraction engines that handle dynamic schema mapping, key-value extraction, and AI-assisted data validation.
-- **⚡ Microservices & Async Processing:** Developing high-throughput **FastAPI** microservices with **PostgreSQL**, **Redis Streams**, **Kafka**, and **Celery** background workers.
-- **☁️ Cloud & DevOps Infrastructure:** Containerizing and deploying multi-tenant AI applications on **AWS** using Docker, EC2, ECS, Nginx, S3, CloudFront, and automated CI/CD pipelines.
+Experienced in building multi-agent systems, RAG applications, intelligent document processing, and cloud-native AI platforms using Python, FastAPI, LangGraph, OpenClaw, AWS Bedrock, Redis, Kafka, PostgreSQL, and Docker.
 
 ```yaml
 name: Ajeethkumar Muruganandham
-education: Master of Computer Applications (AI & ML) - Chandigarh University
+education: MCA (AI & ML) - Chandigarh University
 role: Senior AI Engineer @ Annular Technologies
-experience: 5+ Years (3+ yrs Backend / 2+ yrs Agentic AI)
-core_expertise: Multi-Agent Systems, RAG, FastAPI, AWS Bedrock, LangGraph, OpenClaw
-mindset: Learn → Architect → Deploy → Scale
+focus: Agentic AI, Multi-Agent Systems, RAG Pipelines, GenAI SaaS
+currently_learning: Advanced LLM Orchestration, Autonomous Agents & MCP
+mindset: Learn → Build → Share → Improve
 ```
 
 ---
 
-## 🛠️ Tech Stack & Ecosystem
+## 🛠️ Tech Stack
 
-### AI, LLM & Multi-Agent Frameworks
+### AI, LLM & Orchestration
 <p>
   <img src="https://img.shields.io/badge/LangGraph-7C3AED?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-38BDF8?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenClaw-4C1D95?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG%20%26%20Vector%20DB-059669?style=for-the-badge"/>
 </p>
 
-### Vector Search, RAG & AI Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/Pinecone-111729?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Embeddings-059669?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OCR%20%26%20Doc%20Intel-6D28D9?style=for-the-badge"/>
-</p>
-
-### Backend Development & Databases
+### Programming & Backend
 <p>
   <img src="https://skillicons.dev/icons?i=python,fastapi,js,bash,postgres,redis,mongodb,mysql"/>
 </p>
 
-### Event-Driven Architecture & Async Messaging
+### Messaging & Event-Driven
 <p>
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis%20Streams-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
 </p>
 
-### Cloud & DevOps Infrastructure
+### Cloud & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,git,linux"/>
 </p>
 
 ---
 
-## 💻 Key Projects & Systems Built
+## 🚀 My Professional Journey
 
-### 🔹 1. GTMer – Enterprise AI Sales Development Platform
-A multi-tenant AI SaaS platform automating end-to-end B2B sales workflows using autonomous AI agents.
-- **Key Features:** Autonomous lead enrichment, AI email generation, voice agents, competitor intelligence, CRM sync, and multi-tenant security architecture.
-- **Tech Stack:** `Python` `FastAPI` `LangGraph` `AWS Bedrock` `React` `PostgreSQL` `Redis` `Docker` `AWS`
+```text
+Computer Technology (B.Sc) → Backend & Python Eng (3+ yrs) → Agentic AI & GenAI Eng (2+ yrs) → Senior AI Engineer
+```
 
----
-
-### 🔹 2. Enterprise Document Intelligence Platform
-AI-driven document processing solution for enterprise invoices, receipts, and structured docs.
-- **Key Features:** OCR extraction, dynamic schema mapping, key-value pair parsing, automated confidence validation, and LLM-assisted error resolution workflows.
-- **Tech Stack:** `Python` `OCR` `LLMs` `FastAPI` `PostgreSQL` `Redis` `Docker`
+### Currently Exploring
+- Advanced Multi-Agent Orchestration & Tool Calling Systems
+- Model Context Protocol (MCP) Integration
+- Scalable Autonomous AI Agents for Enterprise Automation
 
 ---
 
-### 🔹 3. OpenClaw Enterprise AI Assistant
-Multi-agent conversational assistant tailored for enterprise operational support.
-- **Key Features:** WhatsApp integration, persistent memory, tool-calling capabilities, RAG-driven knowledge retrieval, and custom role permissions.
-- **Tech Stack:** `OpenClaw` `LangGraph` `Python` `FastAPI` `Redis` `Docker` `AWS`
+## 💻 Featured & System Hands-on Projects
+
+### 🔹 1. LLM Benchmarking Platform & Telegram Bot
+An enterprise-grade benchmarking suite designed to evaluate and compare multiple Large Language Models (LLMs) on identical prompts under controlled execution conditions. 
+- Integrated with **OpenClaw OpenAI-compatible API proxy** to run model completions while tracking latency, token usage, and cost tradeoffs.
+- Features an interactive **Telegram Bot** (`python-telegram-bot`) with inline keyboards, live progress notifications, leaderboard previews, and Matplotlib radar charts for model profiling.
+- Evaluates code via sandboxed Python execution, Exact Match, Word-level F1, and diff Fuzzy Matching stored in an SQLite database (SQLAlchemy ORM).
+
+**Tech Stack:**  
+`Python 3.12` `OpenClaw` `Telegram Bot API` `SQLite` `SQLAlchemy` `Matplotlib` `httpx` `pytest`
 
 ---
 
-### 🔹 4. Enterprise Async Backend & Automation Suite *(Reveille Technologies)*
-High-performance REST API services and asynchronous data processing pipelines for enterprise clients.
-- **Key Features:** Automated business workflows, SQL query optimization, backend service reliability enhancements, and production support.
-- **Tech Stack:** `Python` `FastAPI` `PostgreSQL` `REST APIs` `Docker` `Linux`
+### 🔹 2. OpenClaw Autonomous Multi-Agent Workflows
+An autonomous multi-agent engine built on top of OpenClaw framework, supporting dynamic agent role handoffs, custom tool execution approvals, and local memory vector storage.
+- Features a custom **WhatsApp & Telegram gateway integration** for agentic conversation workflows.
+- Implements background heartbeat monitoring, automated delivery queues, and custom tool approval policies (`exec-approvals`).
+
+**Tech Stack:**  
+`OpenClaw` `LangGraph` `Python` `FastAPI` `Redis` `Docker` `AWS`
 
 ---
 
-### 🔹 5. Enterprise Reservation Support Infrastructure *(SpiceJet Ltd)*
-Production support engineering for mission-critical flight booking and reservation platforms.
-- **Key Features:** Incident root-cause analysis, database & infrastructure health monitoring, and system uptime optimization.
-- **Tech Stack:** `SQL` `Production Support` `Incident Management` `Linux`
+### 🔹 3. GTMer – Enterprise AI Sales Development Platform
+A production-grade multi-tenant AI SaaS platform that automates B2B sales workflows through AI agents, AI email generation, AI voice calling, chatbot automation, lead enrichment, competitor intelligence, and CRM automation.
+- Designed production-ready multi-agent workflows using **LangGraph** and **AWS Bedrock**.
+- Built asynchronous processing pipelines using Python, Redis Streams, and event-driven microservices.
+
+**Tech Stack:**  
+`Python` `FastAPI` `LangGraph` `AWS Bedrock` `React` `PostgreSQL` `Redis` `Docker` `AWS`
 
 ---
 
-## 💼 Work Experience Summary
+### 🔹 4. Enterprise Document Intelligence & OCR Platform
+An AI-powered document processing platform supporting OCR, document classification, intelligent data extraction, AI validation workflows, dynamic schema mapping, and enterprise document automation.
+- Engineered intelligent document processing solutions using OCR and LLM-based extraction with AI-assisted validation.
 
-- **Senior AI Engineer** @ *Annular Technologies* (May 2024 – Sep 2026)  
-  *Leading multi-agent system design, GenAI platform development, and cloud-native AI microservices on AWS.*
-- **Technical Consultant (Software Engineering & Backend)** @ *Reveille Technologies* (Oct 2022 – Nov 2023)  
-  *Built Python REST APIs, automated backend workflows, and optimized PostgreSQL databases.*
-- **Technical Support Engineer** @ *SpiceJet Ltd* (Nov 2019 – Dec 2021)  
-  *Ensured production uptime, investigated infrastructure issues, and optimized operational workflows.*
+**Tech Stack:**  
+`Python` `OCR` `LLMs` `FastAPI` `PostgreSQL` `Redis`
 
 ---
 
-## 📈 Current Focus & Learning
+## 📈 Current Focus
 
 ```yaml
 learning:
-  - Advanced Multi-Agent Protocols & MCP
-  - Autonomous Agent Tool Optimization
-  - Fine-Tuning & Quantization
+  - Agentic Systems & Swarm Intelligence
+  - Model Context Protocol (MCP)
+  - Autonomous LLM Evaluation Frameworks
 building:
-  - Enterprise AI SaaS Platforms
-  - Multi-Tenant RAG Systems
+  - OpenClaw Agent Extensions & Custom Tools
+  - Multi-Agent AI SaaS Platforms
 goal:
-  - Deliver scalable, production-grade GenAI & Agentic AI solutions for enterprise impact
+  - Architect scalable, enterprise-ready GenAI & Agentic AI solutions
 ```
+
+---
+
+## 🐙 GitHub & Social Links
+
+<div align="center">
+  <a href="https://github.com/Ajeethkumar-25">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Always-Learning-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Always-Building-A855F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Always-Growing-6D28D9?style=for-the-badge"/>
+</div>
 
 ---
 
